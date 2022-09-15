@@ -1,6 +1,6 @@
 {% set name = "regenie" %}
-{% set version = "3.1.2" %}
-{% set sha256 = "b2e5e98bb310d9b9071ae5c63c5207be853bb1ec7918574e1acfdd0c83e744ff" %}
+{% set version = "3.2" %}
+{% set sha256 = "16097d59ade38a9e02d26f58aea900b60f6775b3ae73855b4205ca047c7b2810" %}
 
 package:
   name: {{ name|lower }}
